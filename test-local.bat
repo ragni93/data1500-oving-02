@@ -10,7 +10,8 @@ setlocal enabledelayedexpansion
 
 set PASSED=0
 set FAILED=0
-set TESTDATA_DIR=testdata
+set ABSOLUTE_PATH=%~dp0
+set TESTDATA_DIR=%ABSOLUTE_PATH\testdata
 
 echo.
 echo ================================================
