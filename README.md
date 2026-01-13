@@ -324,7 +324,7 @@ Alle refleksjonsspørsmål skal besvares i `besvarelse-refleksjon.md`. Dette dok
 - [JSON-format](https://www.json.org/)
 - [REST-prinsipper](https://restfulapi.net/)
 - [OWASP Top 10 - SQL Injection](https://owasp.org/www-community/attacks/SQL_Injection)
-- [Java HttpServer dokumentasjon](https://docs.oracle.com/en/java/javase/21/docs/api/com.sun.net.httpserver/module-summary.html)
+- [Java HttpServer dokumentasjon](https://docs.oracle.com/javase/8/docs/jre/api/net/httpserver/spec/overview-summary.html)
 
 ---
 
